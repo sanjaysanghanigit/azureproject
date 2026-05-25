@@ -1,0 +1,15 @@
+{
+	"name": "sanjfactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13371f29-53d8-4f5f-9388-2e46fe67a61e",
+		"tenantId": "043ad140-e4a4-4a98-9d1e-140329bd1f3b"
+	}
+}
